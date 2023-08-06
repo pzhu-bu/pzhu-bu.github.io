@@ -1,1 +1,9 @@
-baseurl: /
+title: My Blog
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
