@@ -6,54 +6,6 @@
 
 列出项目的主要功能特性。
 
-## 安装与运行
-
-说明如何安装和运行项目的步骤。
-
-```bash
-# 安装依赖
-npm install
-
-# 运行项目
-npm start
-```
-
-或者
-
-```bash
-# 安装依赖
-yarn install
-
-# 运行项目
-yarn start
-```
-
-## 使用示例
-
-提供一些示例代码或者使用说明。
-
-```javascript
-const myModule = require('my-module');
-
-// 使用示例
-const result = myModule.doSomething();
-console.log(result);
-```
-
-## 配置选项
-
-如果项目有一些可配置的选项，可以在这里列出并说明。
-
-## 贡献
-
-如果愿意接受其他开发者的贡献，可以在这里说明如何贡献代码。
-
-1. Fork 本项目
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的改动 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 提交合并请求
-
 ## 版权信息
 
 说明项目的版权信息或许可证类型。
